@@ -7,4 +7,4 @@ Mankind future is ✨ bright ✨
 
 ### Adobe XD Prototype
 
-![Adobe XD Prototype](https://solar-system-svg.netlify.app/xd-prototype)
+![Adobe XD Prototype](https://solar-system-svg.netlify.app/xd-prototype.png)
